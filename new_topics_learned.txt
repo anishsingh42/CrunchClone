@@ -1,0 +1,9 @@
+1) display:flex;
+    and its properties like justify-content, align-items and align-content;
+2)box-sizing: border-box;
+3)Linear gradient
+4)Diff types of sizes like em, rem etc
+5) We can add multiple classes and seperate with space like class="name1 name2" 
+6) ::last child 
+7) position relative and absolute
+8) Animations in css
