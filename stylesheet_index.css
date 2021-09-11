@@ -80,6 +80,7 @@ nav ul li a
     /* background: grey; */
     transition-duration: 275ms;
     transition-timing-function: ease-in-out;
+
 }
 /* #last_nav_link_contacts
 {
@@ -205,4 +206,52 @@ nav ul li a:hover
 {
     border:  rgba(48,213,200,0.825) solid;
     border-width: 0px 4px 4px 0px;
+}
+
+.about_us{
+    letter-spacing: 1px;
+    word-spacing: 2.5px;
+}
+
+.title_about_us
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:12%;
+    font-size: 40px;
+    font-weight: lighter;
+}
+.about_us h4
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+    font-size: 20px;
+}
+.line
+{
+    display: block;
+    width:7%;
+    border-bottom: turquoise solid 3.5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:1% ;
+    margin-bottom: 1%;
+}
+.book_img
+{
+    float: right;
+    margin:5% 10% auto auto;
+    width:33.5%;
+    height: auto; 
+}
+.about_txt
+{
+    float: left;
+    margin:10% auto auto 5%;
+    width:46%;
+    height: auto;
+    font-size: 18.5px;
 }
